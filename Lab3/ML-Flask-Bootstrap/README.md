@@ -1,5 +1,5 @@
-## ML-Model-Flask-Deployment
-This is a demo project to elaborate how Machine Learn Models are deployed on production using Flask API
+## ML-Flask-Boostrap
+This is a simple project to elaborate how Machine Learn Models are deployed on production using Flask API
 
 
 ### Project Structure
